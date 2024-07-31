@@ -1,0 +1,29 @@
+.emptyUser {
+    margin: auto;
+    text-align: center;
+    padding: 10vmax;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background-color: grey; */
+  }
+  .emptyUser > svg {
+    font-size: 5vmax;
+    color: tomato;
+  }
+  .emptyUser > p {
+    font-size: 2.5vmax;
+    /* background-color: green; */
+  }
+  .emptyUser > a {
+    background-color: rgb(51, 51, 51);
+    color: white;
+    border: none;
+    padding: 1vmax 3vmax;
+    cursor: pointer;
+    font: 400 1.5vmax "Roboto";
+    text-decoration: none;
+  }
+  
